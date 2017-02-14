@@ -4,7 +4,7 @@ a {color:#000;font-size:20px;}
 #wrap{position:relative;margin:0 auto;width:1100px;height:680px;margin-top:10px;}
 #text{width:320px;
 height:560px;
-left:100px;
+left:120px;
 top:40px;position:absolute;
 }
 #code{display:none;font-size:20px;}
